@@ -4,3 +4,9 @@ body {
 h2 {
     color: darkslateblue;
 }
+a {
+    font: 1em sans-serif;
+}
+img{
+    border: 2px white
+}
