@@ -3,10 +3,11 @@ body {
 }
 h2 {
     color: darkslateblue;
+    font-size: 2em
 }
 a {
     font: 1em sans-serif;
 }
 img{
-    border: 2px white
+    border: 4px white
 }
