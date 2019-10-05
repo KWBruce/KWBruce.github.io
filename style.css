@@ -11,3 +11,11 @@ a {
 img {
     border: 4px white;
 }
+h1 {
+    font-size: 6em
+}
+p {
+    font-size: 2em;
+    font: bold
+    
+}
