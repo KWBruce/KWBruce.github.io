@@ -1,5 +1,6 @@
 body {
-    background-color: darkgrey
+    background-color: darkgrey;
+    background-image: url("Beach2.jpg")
 }
 h2 {
     color: darkslateblue;
