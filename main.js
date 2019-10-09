@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    document.getElementById("secondheader").onclick = function() {
+    document.getElementById("mainHeader").onclick = function() {
       this.style.color = 'green'
     }
   })
