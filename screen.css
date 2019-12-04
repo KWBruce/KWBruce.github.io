@@ -47,7 +47,9 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   font-family: sans-serif;
-  color: #2a2a2a; }
+  color: #2a2a2a;
+  background-image: url("beach2.jpg");
+}
 
 a {
   color: #0388a6; }
@@ -59,5 +61,5 @@ a {
 
   h1 {
     font-size: 4em;
-    color: #0c0570;
+    color: #690805;
   }
